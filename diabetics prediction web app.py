@@ -3,7 +3,7 @@ import pickle
 import streamlit as st
 
 # loading the saved model
-loaded_model = pickle.load(open('E:/Mohit_GitHub/car_prediction/trained_model.sav', 'rb'))
+loaded_model = pickle.load(open('E:/Mohit_GitHub/car/trained_model.sav', 'rb'))
 
 # creating a function
 
